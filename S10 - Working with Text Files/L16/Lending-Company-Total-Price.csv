@@ -1,4 +1,4 @@
-LoanID,StringID,Product,CustomerGender,Location,Region,TotalPrice
+LoanID,StringID,Product,Customer Gender,Location,Region,Total Price
 1,id_1,Product B,Male,Location 2,Region 2,16600
 2,id_2,Product B,Male,Location 3,,16600
 3,id_3,Product C,Female,Location 5,Region 5,15600
